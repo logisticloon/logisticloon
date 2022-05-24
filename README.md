@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/logisticloon/count.svg)
+Visit Count : ![Visitor Count](https://profile-counter.glitch.me/logisticloon/count.svg)
 <!--
 **logisticloon/logisticloon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
